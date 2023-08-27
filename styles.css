@@ -40,7 +40,7 @@ body {
 .circle-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-    border: 2px solid red;
+    border: 2px solid rgb(47, 0, 255);
 }
 
 .circle-card img {
